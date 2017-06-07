@@ -1,13 +1,23 @@
 @charset "UTF-8";
 /* CSS Document */
-title{
+title {
+	font-family: Helvetica;
 	font-size: 36px;
-	align-self: center;
+	text-color: grey;
 }
 
-body{
+body {
+	back-ground-color: #B4B4B4;
+	text-align: center;
+}
+
+nav .home {
+	font-size: 20px;
 	
 }
+
+
+	
 
 h1{
 	
@@ -17,12 +27,27 @@ h2{
 	
 }
 
-#dogs{
+.contact {
+	
+}
+
+.dogs{
 	
 }
 
 p{
+	text-align: center;
 	font-size: 30px;
-	color: blue;
+	
+	
+}
+
+.footer {
+	text-align: center;
+	background-color: #086482; 
+	margin: 20px;
+	padding: 20px;
+	
+	 
 	
 }
