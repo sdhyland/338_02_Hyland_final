@@ -1,24 +1,24 @@
 @charset "UTF-8";
 /* CSS Document */
 title {
-	font-family: Helvetica;
+	font-family: Cambria, "Hoefler Text", "Liberation 		Serif", Times, "Times New Roman", serif;
 	font-size: 36px;
 	text-color: grey;
+
 }
 
 body {
-	back-ground-color: #B4B4B4;
 	text-align: center;
 }
 
-nav .home {
+div .navigation_bar {
 	font-size: 20px;
 	
 }
-
-
 	
-
+li {
+	display:inline;
+}
 h1{
 	
 }
@@ -32,15 +32,23 @@ h2{
 }
 
 .dogs{
+	background-color: #C7C7C7;
+	
+}
+p {
+ 	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation 		Serif", Times, "Times New Roman", serif;
+	font-size: 16px;
 	
 }
 
-p{
-	text-align: center;
-	font-size: 30px;
+
+.bottom, .contact, .navigation_bar {
 	
+	margin: 100px;
 	
 }
+
 
 .footer {
 	text-align: center;
