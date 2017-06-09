@@ -16,6 +16,13 @@ div .navigation_bar {
 	
 }
 	
+div .navigation_bar .nav_bar {
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+	
 li {
 	display:inline;
 }
